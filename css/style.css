@@ -105,3 +105,10 @@ figure img{
 .submarine{
     color: cyan;
 }
+
+/* footer */
+footer{
+    line-height: 100px;
+    text-align: center;
+    font-size: 36px;
+}
